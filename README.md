@@ -14,5 +14,5 @@ Las consignas de los trabajos practicos se encuentran en su respectiva carpeta.
 - Pagina de la materia: [Link](https://algoritmos3ce.github.io/)
 
 ### Trabajos Practicos por:
-- Melanie García Lapegna - 111848
+- Melanie García Lapegna - 111848 (la tipaza)
 - Mirko Uriel Sáenz Valiente - 111960
